@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# Checkaro Website 
+Checkaro is a website where you can compare other products on different different E-Commerce Websites.
+# Team Members
+## Sundar Bhai
+Tez Dimag but usse tez uska haath (You know You Know)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://thumbs.dreamstime.com/z/touching-himself-unrecognizable-man-watching-pornography-masturbating-online-porn-video-digital-world-sex-erotic-touching-235791187.jpg" width="480" height="360">
 
-## Available Scripts
+## Nirbhay Bhai 
+Narmada Mayyyiaaa Kiii Jaaaaaaiiiiiiiiiiiii
+   
+<img src="https://www.samvad.in/Encyc/2022/2/7/WhatsApp-Image-2022-02-07-at-5.27.30-PM_202202071737431546_H@@IGHT_838_W@@IDTH_1280.jpeg" width="480" height="360">
 
-In the project directory, you can run:
+## Dipu Bhai
+Randua Chalo Bhopal Ke Karaykarta
 
-### `npm start`
+[![CLICK ME](https://img.youtube.com/vi/IH92vUve7rA/0.jpg)](https://www.youtube.com/watch?v=IH92vUve7rA_ID_HERE )
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Vishal Bhai
+Sigma Male (Shyd)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<img src="https://i.kym-cdn.com/photos/images/facebook/001/492/083/bb7.jpg" width="240" height="360">
 
-### `npm test`
+## Rohit Bhai
+Mallu Lover
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img src="https://i.ytimg.com/vi/pywx65Tfmq8/maxresdefault.jpg" width="360" height="240">
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### With our all due respect OUR LORD 
+## HARENDRA MANJHI
+![6][def6]
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+[def]: https://www.samvad.in/Encyc/2022/2/7/WhatsApp-Image-2022-02-07-at-5.27.30-PM_202202071737431546_H@@IGHT_838_W@@IDTH_1280.jpeg  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[def6]: https://media.licdn.com/dms/image/C4D03AQHm9QtcR2rtNA/profile-displayphoto-shrink_400_400/0/1656600296915?e=1681948800&v=beta&t=uGznhEdQdpy0HpegFQdccA7L1PIsyOhBHqAIKUgNrD0
