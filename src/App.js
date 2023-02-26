@@ -14,7 +14,7 @@ const App = () => {
       <Article />
       <CTA /> 
       <Features />
-      <Featured />
+      
       <Footer />
       <MostViewed />
       <SelectCatagories />
