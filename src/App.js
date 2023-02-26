@@ -2,6 +2,7 @@ import React from 'react';
 
 import { Article, Brand, CTA, Features, Navbar } from './components';
 import { Featured, Footer, Header, MostViewed, SelectCatagories, Recommanded,  ShoppingImage } from './containers';
+import './App.css';
 
 const App = () => {
   return (
@@ -14,7 +15,7 @@ const App = () => {
       <Article />
       <CTA /> 
       <Features />
-      
+      <Featured />
       <Footer />
       <MostViewed />
       <SelectCatagories />
