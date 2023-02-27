@@ -1,0 +1,51 @@
+.Checkaro__navbar {
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 2rem 12rem;
+
+} 
+
+.Checkaro__navbar-links {
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+ 
+.Checkaro__navbar-links_logo {
+    margin-right: 2rem;
+}
+
+.Checkaro__navbar-links_logo img{
+    
+    width: 150px;
+    height: 136px;
+
+}
+
+.Checkaro__navbar-links_container {
+    display: flex;
+    flex-direction: row;
+}
+
+.Checkaro__navbar-sign {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.Checkaro__navbar-links_container p,
+.Checkaro__navbar-sign p,
+.Checkaro__navbar-menu_container p {
+    color: #fff ;
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    text-transform: capitalize;
+
+    margin: 0 1rem;
+    cursor: pointer;
+}
